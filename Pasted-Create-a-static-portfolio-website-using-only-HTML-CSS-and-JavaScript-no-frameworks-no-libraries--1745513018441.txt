@@ -1,0 +1,86 @@
+Create a static portfolio website using only HTML, CSS, and JavaScript (no frameworks, no libraries, no backend). The entire site should be structured across just three files:
+
+index.html — the main HTML file
+
+style.css — for all styling
+
+script.js — for any interactivity
+
+The content should reflect the following resume details of Harshit Gupta:
+
+🔹 Personal Information:
+Name: Harshit Gupta
+
+Location: Kasganj, Uttar Pradesh
+
+Phone: 8979063671
+
+Email: harshitgupta8979@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/harshitgupta8979/
+
+GitHub: https://github.com/Guptaharshit123
+
+Video CV: (Insert your video CV link here — replace with the actual YouTube/Drive link)
+
+🔹 Sections to Include:
+1. Hero Section:
+Name and title like “Aspiring Software Developer”
+
+Brief intro:
+“Computer Science student at LPU with a passion for data analysis, AI, and software development.”
+
+Add a button to download resume (placeholder link) and another to view Video CV.
+
+2. Projects:
+Showcase 3 key projects with title, description, and tools used:
+
+Uber Trip Analysis (Power BI)
+Interactive dashboard analyzing 100K+ bookings. DAX, slicers, advanced visuals.
+
+Movie Recommendation System (R)
+Web app using R and ML for movie suggestions with item-based collaborative filtering.
+
+Mystic Broom (Python)
+Harry Potter-inspired Pygame. Dodge towers, music features, and high-score display.
+
+3. Certificates:
+List of Coursera certificates:
+
+Data Analysis with Tableau – Oct 2024
+
+Excel Skills for Business – Apr 2024
+
+R Programming – Mar 2024
+
+Programming in C++ – Nov 2023
+
+4. Skills:
+Programming: Python, Java, C++, R
+
+Data Tools: Excel, Tableau, SQL
+
+DSA: 200+ LeetCode problems solved
+
+SDLC: Waterfall, Iterative, Agile
+
+5. Education:
+Lovely Professional University (B.Tech CSE, CGPA: 7.65) – 2022–Present
+
+NRSDSVM Inter College (12th Science – 67%) – 2018–2020
+
+M.S. Public School (10th Science – 73.33%) – 2016–2018
+
+🔹 Design Instructions:
+Clean, modern, and mobile-responsive layout
+
+Fixed header with navigation that scrolls smoothly to sections
+
+Stylish section headers with accent colors
+
+Use JavaScript only for scroll effects or small interactions (like collapsible project details or filtering)
+
+DO NOT use any external libraries/frameworks (e.g., Bootstrap, jQuery, etc.)
+
+🔸 Ensure everything is contained in only three files: index.html, style.css, and script.js.
+
